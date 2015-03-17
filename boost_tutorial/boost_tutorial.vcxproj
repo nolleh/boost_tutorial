@@ -148,6 +148,7 @@
     <ClInclude Include="001.sync_timer.hpp" />
     <ClInclude Include="002.async_timer.hpp" />
     <ClInclude Include="003.binding_to_handler.hpp" />
+    <ClInclude Include="004.member_handler.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

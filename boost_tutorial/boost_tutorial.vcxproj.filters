@@ -24,6 +24,9 @@
     <ClInclude Include="003.binding_to_handler.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="004.member_handler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
