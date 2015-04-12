@@ -150,6 +150,7 @@
     <ClInclude Include="003.binding_to_handler.hpp" />
     <ClInclude Include="004.member_handler.hpp" />
     <ClInclude Include="005.strand.hpp" />
+    <ClInclude Include="006.TCPClient.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

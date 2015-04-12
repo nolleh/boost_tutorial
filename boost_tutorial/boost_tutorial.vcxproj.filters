@@ -30,6 +30,9 @@
     <ClInclude Include="005.strand.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="006.TCPClient.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
