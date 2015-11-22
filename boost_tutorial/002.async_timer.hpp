@@ -5,7 +5,7 @@
 #include "boost/asio/deadline_timer.hpp"
 #include "boost/date_time/posix_time/posix_time.hpp"
 
-#pragma comment(lib, "libboost_system-vc120-mt-gd-1_57.lib")
+#pragma comment(lib, "libboost_system-vc140-mt-gd-1_59.lib")
 
 namespace nolleh {
 namespace tutorial {
