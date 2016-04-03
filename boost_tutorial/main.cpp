@@ -1,7 +1,7 @@
-#include "006.TCPClient.hpp"
+#include "008.async_daytime_server.hpp"
 
 int main()
 {
-  nolleh::intro_socket::client_run("daytime");
+  server_run();
   return 0;
 }
